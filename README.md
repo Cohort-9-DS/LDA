@@ -1,7 +1,7 @@
 # LDA
 Linear Discriminant Analysis 
 
-- As a reference, read ISLR's section on LDA and QDA. Also refer to the LDA user guide here: http://scikit-learn.org/stable/modules/lda_qda.html#lda-qda. Yes, LDA is also a dimensionality reduction technique, we will learn about that later. 
+- As a reference, read ISLR's section on LDA and QDA. Also refer to the LDA user guide here: http://scikit-learn.org/stable/modules/lda_qda.html#lda-qda. Yes, LDA is also a dimensionality reduction technique, we will learn about that later. Dont worry about it now, if looking for youtube vidoes look only for LDA as a classification technique. 
 
 - Go through the notebook to see an example of LDA and QDA implementaion. 
 
